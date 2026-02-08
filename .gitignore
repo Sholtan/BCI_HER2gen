@@ -1,3 +1,4 @@
 .venv/
 PyramidPix2pix/checkpoints/
 BCI/
+PyramidPix2pix/results/
